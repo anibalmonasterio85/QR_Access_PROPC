@@ -86,7 +86,7 @@ Este proyecto utiliza un stack moderno para garantizar redundancia y velocidad.
 
 He conservado la documentación técnica detallada (esquemas de DB, despliegue AWS, auditoría) en los siguientes archivos:
 
-*   📖 **[Guía Técnica Detallada](.github/README_OLD.md)** - Esquemas completos de tablas y performance.
+*   📖 **[Guía Técnica Detallada](docs/README_OLD.md)** - Esquemas completos de tablas y performance.
 *   📘 **[Manual de Usuario](docs/MANUAL_USUARIO.md)** - Para operadores del sistema.
 *   📙 **[Guía de Inicio Rápido](QUICKSTART.md)** - Pasos alternativos de despliegue.
 
